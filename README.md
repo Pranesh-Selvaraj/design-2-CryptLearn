@@ -84,8 +84,6 @@ npm run seed
 npm run dev
 ```
 
-Backend runs on: **http://localhost:5000**
-
 ### 2. Setup Frontend
 
 ```bash
@@ -93,8 +91,6 @@ cd web
 npm install
 npm run dev
 ```
-
-Frontend runs on: **http://localhost:3000**
 
 ### 3. Login
 
